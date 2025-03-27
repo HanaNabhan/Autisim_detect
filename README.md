@@ -2,6 +2,7 @@
 
 This project involves the classification of images to detect autistic and non-autistic individuals based on a given dataset. It utilizes Convolutional Neural Networks (CNN) for training and validation of the image data.
 
+  <img src="https://github.com/HanaNabhan/Autisim_detect/blob/main/result.png"/>
 
 ## Project Overview
 This repository contains a deep learning model to classify autism-related images into two categories: Autistic and Non-Autistic. The model was trained using a dataset consisting of images of both autistic and non-autistic individuals. The architecture used is a Convolutional Neural Network (CNN) built using TensorFlow/Keras.
